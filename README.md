@@ -10,4 +10,4 @@ Untitled.ipynb is the code.
 
 You can add by your_self.
 
-![Image test](http://prometheus.artic/jiale/mlpnets_summary/-/raw/main/mlp_accuracy_parameters.png?inline=false)
+![Image test](https://github.com/LouiValley/MlpNets_summary/blob/main/mlp_accuracy_parameters.png?inline=false)
